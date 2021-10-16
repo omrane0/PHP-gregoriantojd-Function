@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$jd=gregoriantojd(10,3,1975);
+echo jdtounix($jd);
+?>
+
+</body>
+</html>
+
+
+
+
+
+181526400

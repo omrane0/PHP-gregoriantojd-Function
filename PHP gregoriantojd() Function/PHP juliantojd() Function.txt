@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$jd=juliantojd(6,20,2007);
+echo $jd . "<br>";
+echo jdtojulian($jd);
+?>
+
+</body>
+</html>
+
+
+
+
+2454285
+6/20/2007

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$jd=gregoriantojd(1,13,1998);
+echo jddayofweek($jd,1);
+?>
+
+</body>
+</html>
+
+
+
+
+
+Tuesday

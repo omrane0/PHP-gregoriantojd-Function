@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$jd=jewishtojd(6,20,2007);
+echo $jd;
+?>
+
+</body>
+</html>
+
+
+
+
+
+1080849
